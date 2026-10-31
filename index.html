@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>orOS F-Droid repository</title>
+<meta name="description" content="The orOS Android apps for F-Droid, Droid-ify and Obtainium. Free and open source (MIT), free forever.">
+<link rel="icon" href="icons/online.useoros.twa.png">
+<style>
+:root { color-scheme: light dark; --bg: #f6f6f4; --card: #fff; --ink: #1d1d1d; --muted: #666; --line: #e3e3e0; --accent: #1f6feb; --on-accent: #fff; }
+@media (prefers-color-scheme: dark) { :root { --bg: #141414; --card: #1e1e1e; --ink: #eee; --muted: #a8a8a8; --line: #333; --accent: #6ea8fe; --on-accent: #0b1a33; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+header { display: flex; gap: 16px; align-items: center; }
+header img { border-radius: 16px; }
+h1 { margin: 0; font-size: 1.6rem; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px; margin-top: 18px; }
+.add { display: flex; gap: 18px; flex-wrap: wrap; align-items: center; }
+.add ol { margin: 0; padding-left: 1.2em; flex: 1 1 280px; }
+.qr { background: #fff; padding: 8px; border-radius: 10px; }
+.btn { display: inline-block; margin-top: 10px; background: var(--accent); color: var(--on-accent); text-decoration: none; padding: 10px 16px; border-radius: 10px; font-weight: 600; }
+code { word-break: break-all; font-size: .85em; color: var(--muted); }
+ul.apps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+ul.apps li { display: flex; gap: 10px; align-items: center; }
+ul.apps img { border-radius: 12px; flex: none; }
+.el, small, .muted { color: var(--muted); }
+a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+<header><img src="icons/online.useoros.twa.png" alt="" width="64" height="64"><div><h1>orOS F-Droid repository</h1>
+<div class="muted">Το αποθετήριο F-Droid του orOS · 36 apps · free and open source (MIT), free forever</div></div></header>
+<section class="card add">
+<img class="qr" src="repo/index.png" alt="QR code of the repository" width="180" height="180">
+<ol>
+<li>Install <a href="https://f-droid.org/">F-Droid</a>, <a href="https://droid-ify.com/">Droid-ify</a> or <a href="https://obtainium.imranr.dev/">Obtainium</a>.</li>
+<li>On your phone, tap the button below, or scan the QR code with the app.</li>
+<li>Install any orOS app; updates then come by themselves.</li>
+</ol>
+<div style="flex-basis:100%">
+<a class="btn" href="https://fdroid.link/#https://koulaxizis.github.io/oros-fdroid/repo?fingerprint=2A066758DF27F6AFDF6D96F72D575E3E04844B9F85A22A54B7F2C03905A11846">Add the orOS repository</a>
+<p class="muted">Στο κινητό πάτα το κουμπί ή σκάναρε τον κωδικό QR από το F-Droid ή το Droid-ify. Μετά εγκατέστησε όποια εφαρμογή του orOS θέλεις· οι ενημερώσεις έρχονται μόνες τους.</p>
+<p>Address: <code>https://koulaxizis.github.io/oros-fdroid/repo</code><br>Fingerprint (SHA-256): <code>2A066758DF27F6AFDF6D96F72D575E3E04844B9F85A22A54B7F2C03905A11846</code></p>
+</div>
+</section>
+<section class="card">
+<ul class="apps">
+<li><img src="icons/online.useoros.twa.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS</b><br><small>A whole desktop in your pocket: over 100 offline apps and games in one place</small></div></li>
+<li><img src="icons/online.useoros.notes.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Notes</b> <span class="el">orOS Σημειώσεις</span><br><small>Private notes that work offline</small></div></li>
+<li><img src="icons/online.useoros.calendar.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Calendar</b> <span class="el">orOS Ημερολόγιο</span><br><small>A private calendar that works offline</small></div></li>
+<li><img src="icons/online.useoros.todo.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS To-Do</b> <span class="el">orOS Εργασίες</span><br><small>Tasks and lists, offline and private</small></div></li>
+<li><img src="icons/online.useoros.passwords.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Passwords</b> <span class="el">orOS Κωδικοί</span><br><small>An encrypted password vault that stays on your device</small></div></li>
+<li><img src="icons/online.useoros.budget.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Budget</b> <span class="el">orOS Έσοδα &amp; Έξοδα</span><br><small>Income and expenses, offline and private</small></div></li>
+<li><img src="icons/online.useoros.games.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Games</b> <span class="el">orOS Παιχνίδια</span><br><small>37 classic games in one app: daily puzzles, chess, solitaire</small></div></li>
+<li><img src="icons/online.useoros.bookmarks.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Bookmarks</b> <span class="el">orOS Σελιδοδείκτες</span><br><small>Save links in folders, tag them, keep readable copies and find them fast</small></div></li>
+<li><img src="icons/online.useoros.contacts.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Contacts</b> <span class="el">orOS Επαφές</span><br><small>Address book with labels, birthdays, keep-in-touch reminders and duplicate merge</small></div></li>
+<li><img src="icons/online.useoros.writer.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Writer</b> <span class="el">orOS Κειμενογράφος</span><br><small>Word processor with tabs, tables, footnotes, comments and Word/PDF export</small></div></li>
+<li><img src="icons/online.useoros.spreadsheet.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Spreadsheet</b> <span class="el">orOS Υπολογιστικά φύλλα</span><br><small>Spreadsheet with 100+ functions, charts, several sheets and Excel/Calc files</small></div></li>
+<li><img src="icons/online.useoros.kanban.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Kanban</b> <span class="el">orOS Πίνακες Kanban</span><br><small>Kanban boards: drag cards across columns, with labels, due dates and subtasks</small></div></li>
+<li><img src="icons/online.useoros.mindmap.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Mind Map</b> <span class="el">orOS Νοητικός χάρτης</span><br><small>Mind maps that stay tidy: branches, colours, icons, outline view and presenting</small></div></li>
+<li><img src="icons/online.useoros.wiki.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Wiki</b><br><small>Your own wiki: linked articles with contents, categories and full history</small></div></li>
+<li><img src="icons/online.useoros.slides.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Slides</b> <span class="el">orOS Παρουσιάσεις</span><br><small>Make presentations with themes and layouts, and present with speaker notes</small></div></li>
+<li><img src="icons/online.useoros.habits.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Habits</b> <span class="el">orOS Συνήθειες</span><br><small>Build routines: tick habits day by day, with streaks, strength and stats</small></div></li>
+<li><img src="icons/online.useoros.water.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Water</b> <span class="el">orOS Νερό</span><br><small>Log every glass with one tap and watch your daily water goal fill up</small></div></li>
+<li><img src="icons/online.useoros.diary.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Diary</b> <span class="el">orOS Ημερολόγιο μιας πρότασης</span><br><small>One sentence a day, with the same date from past years shown under it</small></div></li>
+<li><img src="icons/online.useoros.mood.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Mood</b> <span class="el">orOS Διάθεση</span><br><small>Log how you feel in seconds and discover patterns in your mood over time</small></div></li>
+<li><img src="icons/online.useoros.workouts.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Workouts</b> <span class="el">orOS Προπόνηση</span><br><small>Training log: follow a program, tick your sets, track records and progress</small></div></li>
+<li><img src="icons/online.useoros.health.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Health</b> <span class="el">orOS Υγεία</span><br><small>Log blood pressure, weight, sugar, sleep and medicines, with charts and reports</small></div></li>
+<li><img src="icons/online.useoros.cycle.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Cycle</b> <span class="el">orOS Κύκλος</span><br><small>Private period tracker with predictions, symptoms and an optional fertile window</small></div></li>
+<li><img src="icons/online.useoros.calculator.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Calculator</b> <span class="el">orOS Αριθμομηχανή</span><br><small>Calculator with scientific, graphing, programmer and finance modes</small></div></li>
+<li><img src="icons/online.useoros.time.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Time</b> <span class="el">orOS Ώρα</span><br><small>Clock, world clock, alarms, timers, stopwatch, Pomodoro and a stage timer</small></div></li>
+<li><img src="icons/online.useoros.weather.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Weather</b> <span class="el">orOS Καιρός</span><br><small>Forecast, rain in the next 2 hours, official warnings, air quality and pollen</small></div></li>
+<li><img src="icons/online.useoros.maps.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Maps</b> <span class="el">orOS Χάρτες</span><br><small>OpenStreetMap maps with routes, public transport, navigation and GPX tracks</small></div></li>
+<li><img src="icons/online.useoros.reader.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Reader</b> <span class="el">orOS Αναγνώστης</span><br><small>RSS, Atom and JSON feed reader with folders, tags, search and offline reading</small></div></li>
+<li><img src="icons/online.useoros.mail.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Mail</b> <span class="el">orOS Αλληλογραφία</span><br><small>Read and send email from any IMAP account, with rules, snooze and OpenPGP</small></div></li>
+<li><img src="icons/online.useoros.files.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Files</b> <span class="el">orOS Αρχεία</span><br><small>Your private disk: folders, previews, search, ZIP files and Dropbox</small></div></li>
+<li><img src="icons/online.useoros.podcasts.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Podcasts</b><br><small>Follow podcasts, build an Up next queue and download episodes to play offline</small></div></li>
+<li><img src="icons/online.useoros.radio.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Radio</b> <span class="el">orOS Ραδιόφωνο</span><br><small>Thousands of internet radio stations, with favourites, recording and alarms</small></div></li>
+<li><img src="icons/online.useoros.photolab.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Photo Lab</b> <span class="el">orOS Εργαστήριο εικόνας</span><br><small>Edit photos with layers, masks, selections, brushes, filters and adjustments</small></div></li>
+<li><img src="icons/online.useoros.invoices.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Invoices</b> <span class="el">orOS Τιμολόγια</span><br><small>Invoices, receipts and credit notes with VAT, numbering, PDF and payments</small></div></li>
+<li><img src="icons/online.useoros.crm.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS CRM</b> <span class="el">orOS Πελάτες</span><br><small>A small customer book: customers, contacts, follow-ups and a deal pipeline</small></div></li>
+<li><img src="icons/online.useoros.timesheet.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Timesheet</b> <span class="el">orOS Ώρες εργασίας</span><br><small>Track work time per project and client, with timers, weekly view and reports</small></div></li>
+<li><img src="icons/online.useoros.drive.png" alt="" width="48" height="48" loading="lazy"><div><b>orOS Drive</b><br><small>Back up phone folders to your encrypted orOS Vault, with Dropbox or Nextcloud</small></div></li>
+</ul>
+</section>
+<p class="muted">More about orOS: <a href="https://useoros.online/">useoros.online</a> · source: <a href="https://github.com/koulaxizis/oros">github.com/koulaxizis/oros</a> · support: <a href="https://ko-fi.com/koulaxizis">Ko-fi</a></p>
+</main>
+</body>
+</html>
