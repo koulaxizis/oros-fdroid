@@ -1,0 +1,1937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="orOS" pubkey="308204fb308202e3a00302010202080303e9aa19bed897300d06092a864886f70d01010c0500302b310d300b060355040a13046f724f53311a3018060355040313116f724f5320462d44726f6964207265706f3020170d3236313031353038323633315a180f32303534303330323038323633315a302b310d300b060355040a13046f724f53311a3018060355040313116f724f5320462d44726f6964207265706f30820222300d06092a864886f70d01010105000382020f003082020a0282020100bf4f6fee7e58d9dd2bde9827fd3cc0c0ec578eb7b7c9ceeb0b6902b9359d9ffb110c1f1e3ca3378bd44f25cb02918c7f6f059016b20ddce440c5e44d1ffe4893db648038483e90cfbce3969eb86d477a0fc97eef68cd10b791bbf27b3bbdf0a420350cb6455dcff758dfbc39553dc00b8d403cc2d707796ae0629cd8f907f0b2bda281df7235695236b64e5d092a8758b806abc83801c21430b7c5d6a2b3c02a76643bb9ecc452017c791b9f0cff3825548dbaf84da10cd71d18f540c2c11c95773cebedc69440615187c40dddb034ecd52efae22dd5de08ccf80b33abbbf61e5586751edc0c62365aa3d1fc5977a346f2d2ff01bbda243f3dd598acf36cfceebbf027ff787022ac0b444b1e81b6ac0285ab65e7e96f0fb514c7ede5a97b511001d38e9376acb299029267ce0b95b987a76ef440decf64a2166bf103acfbbb75b94f1a1fd7d980c5519c23785ba469809112f9bf9cd142b173aab61fa62552e0ab7cb6be6df69144487f8f16f209a58df9f27a40a8d76b25b0e49a3a022b4a1b256aa95615018ada2294091797a100e407497179d9982ace4a640084039efc1cea52192e2d4308b2dd3825bbccc9edbae84b2b2abc9b713d991ddf9360d7ef5ece0ac439cb0558645c3e59eb980f7b8d272c8470091d1291ac013eaafbab8e6bc06a5e3093d39aa68dff2080f2f0a507de12b9cfe2c5b1d092f246143d1d13450203010001a321301f301d0603551d0e04160414a02b4ab3b9950804cbd948ffc1d10e8ccf9bd72a300d06092a864886f70d01010c050003820201000650a5a8eb0a1a97eba5eef53e4beaa2681943f7c06554a93b219b6eac813b7c53fe9ea623465aa5d4f59200ccb5d8cde21c774c198878e6fdf2e837338dbe09102e453b7dc2e0000a5bc5b8dac05757e17c2af7322a9129d97369ff6abb471c42c40c44c88c4de05f0528aefd33bfa3061f1057522bc5a63769f9d1a8d5048b9d0c9b285592d80d65ce63c5cbbbc60a8546823e9905ccafec5eccc0ddf292188d3ce044424c76968f78cdee38bfa7bfa50d1976ebf114810771f81e75ccd90ff85dcbfa7f6c643267936bff178f5642d55ee11d918fdc89c0a68e53ee2f5571839813054237e649fb521a4cfb883879cf4c24c396aee7779521510e46dafb5c574b65f20eb3afb8b3d5c35af3db550ae4007fe51bd9fc278513170c84d414aa6d114011d73b43e5d606a460c87dcfab04444c897125d9143b246a53f1c7f97db6dc98a71c2c6eabad5a15605cf2eb2eb20486bc4ab637ccbe9cc7febb95424564a90d9d01870d082bb2cc27d78215e674527246aa770b5f93f5ef2b82d566e9b6cc6877b494ee96325982c02416a4a631246cce95f0b2a7eab5203f61fc76ce1da0723402a4c33a32eb50993b70b33d45fdbf083b3aafc82393c443de26339580c203965d94e8bd3eae963e70099aa98295026e2391ead3b3c8561d192c4056f6a8cf7a235f98bf8af45a66b3acc68be1319c36b3bd928cf889f9d36aa95c34" timestamp="1795865026" url="https://apps.koulaxizis.workers.dev/oros-fdroid/repo" version="20002">
+		<description>orOS and its single apps: notes, calendar, office, money, health, maps and more. Offline-first, no account, no ads, no tracking. Free and open source (MIT), free forever.</description>
+	</repo>
+	<application id="net.glarolykoi.android">
+		<id>net.glarolykoi.android</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>Glarolykoi</name>
+		<summary>Glarolykoi bookshop: new books and e-books, no ads, no tracking</summary>
+		<desc>The app of Glarolykoi, an independent Greek publisher: the glarolykoi.net bookshop in an app of its own.
+
+Browse and buy books, e-books and gifts with the same cart, account and payments as the site. E-books download to your phone. Links to other sites open in your browser, so you always see where you are.
+
+If you want, the app checks the shop once a day and tells you when something new arrives, without any push service: it asks first, and sends nothing about you.
+
+No third-party libraries, no advertising ID, no analytics, no account with anyone. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Reading</categories>
+		<category>Reading</category>
+		<web>https://glarolykoi.net/</web>
+		<source>https://github.com/koulaxizis/oros/tree/main/glarolykoi-android</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>Glarolykoi</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>1000001</marketvercode>
+		<package>
+			<version>1.0.1</version>
+			<versioncode>1000001</versioncode>
+			<apkname>net.glarolykoi.android_1000001_2f200242.apk</apkname>
+			<hash type="sha256">2f200242ac9c3697e828f3d82d0dde9c690c882f2982b14f9881311c3b420c01</hash>
+			<size>67456</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED</permissions>
+		</package>
+	</application>
+	<application id="gr.koulaxizis.apps">
+		<id>gr.koulaxizis.apps</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>Koulaxizis Apps</name>
+		<summary>All our Android apps in one place: orOS, NULL JSFX, Noxpress, Glarolykoi</summary>
+		<desc>Koulaxizis Apps installs and updates the Android apps of orOS, NULL JSFX, Noxpress and Glarolykoi, one section per project, from each project's own signed F-Droid repository.
+
+Every list is checked before it is used: the repository's signing key is pinned in the app, the index must match its signature, size and checksum, and an older list never replaces a newer one. Each APK is checked for its size, checksum and signer before Android is asked to install it, so an app only ever updates with the key it already has.
+
+Update all updates the apps one after the other. A daily check, when there is a network and the battery is not low, shows one quiet notification for new updates; it never installs anything by itself, and you can turn it off in the menu. The last checked list stays on the phone, so the app also works offline.
+
+While Koulaxizis Apps is installed, the other apps leave their own update notices to it.
+
+No account, no ads, no trackers. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://useoros.online/download/#koulaxizis-apps</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>10401</marketvercode>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>10401</versioncode>
+			<apkname>gr.koulaxizis.apps_10401_9cbf6700.apk</apkname>
+			<hash type="sha256">9cbf67009978f9d18f3dd1abc63a65fbf7555f660b56d92aecc66f930b645af5</hash>
+			<size>101264</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>ACCESS_NETWORK_STATE,ENFORCE_UPDATE_OWNERSHIP,INTERNET,POST_NOTIFICATIONS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.twa">
+		<id>online.useoros.twa</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS</name>
+		<summary>A whole desktop in your pocket: over 100 offline apps and games in one place</summary>
+		<desc>orOS is a small operating system that runs in a web page: an app menu, a top bar, notifications and more than 100 apps and games, all in English and Greek.
+
+Office apps for everyday work: To-Do, Kanban, Notes, Calendar, Contacts, Writer, Spreadsheet, Mind Map, Wiki and more. Personal apps such as Mood, Habits and One-Sentence Diary, tools such as Calculator, Files and Time, and dozens of games, from Sudoku and Chess to 2048 and Solitaire.
+
+The apps work together: one search box in the menu finds apps and your data, birthdays from Contacts and Kanban due dates show up in Calendar, and a mind map branch can become a To-Do list or a set of slides.
+
+Everything lives on your device and every app has its own help pages, also offline. Every app can also be installed on its own, as a single app with its own icon.
+
+The Android app adds phone features: your orOS contacts and calendar appear in the phone's own Contacts and Calendar apps, reminders arrive as notifications, home-screen widgets and shortcuts open apps directly, and you can share text, links and files to orOS from any app.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://useoros.online/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.twa_9015000_cf71e021.apk</apkname>
+			<hash type="sha256">cf71e0213e41b7d0db33193d3628789700ab41e9330ea5d5daabe17e263268de</hash>
+			<size>1207884</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PROJECTION,FOREGROUND_SERVICE_MICROPHONE,GET_ACCOUNTS,POST_NOTIFICATIONS,READ_CALENDAR,READ_CONTACTS,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,SCHEDULE_EXACT_ALARM,USE_BIOMETRIC,WRITE_CALENDAR,WRITE_CONTACTS,WRITE_SYNC_SETTINGS,health.READ_BLOOD_GLUCOSE,health.READ_BLOOD_PRESSURE,health.READ_EXERCISE,health.READ_HYDRATION,health.READ_OXYGEN_SATURATION,health.READ_RESTING_HEART_RATE,health.READ_SLEEP,health.READ_STEPS,health.READ_WEIGHT,health.WRITE_EXERCISE,health.WRITE_HYDRATION,online.useoros.permission.AF_FEED,online.useoros.twa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="22" name="android.permission.GET_ACCOUNTS"/>
+		</package>
+	</application>
+	<application id="online.useoros.assistant">
+		<id>online.useoros.assistant</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Assistant</name>
+		<summary>Ask your notes, tasks and calendar anything, with the AI you choose</summary>
+		<desc>orOS Assistant is the orOS Assistant on its own: tap its icon, type your question and send. No desktop to open first.
+
+Ask about your own notes, tasks, events, contacts and spending: the Assistant searches your orOS apps on this phone and shows you what it found before anything is shared. It can prepare a task, an event, an expense or a note and change items in your apps, always on a card you confirm, with Undo. Passwords are never shown to it.
+
+Use the AI you prefer with your own key: Claude, ChatGPT, Gemini, Mistral or OpenRouter, or a model on your own computer (Ollama, LM Studio and other OpenAI-compatible servers). Your key stays on your device, sealed.
+
+Share a text or a link from any app to orOS Assistant and it waits in the message box. Icon shortcut: Briefing (today's agenda, what is late, birthdays and this month's spending in one answer).
+
+No account with us, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox or Nextcloud.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/assistant/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.assistant_9015000_8e1d9915.apk</apkname>
+			<hash type="sha256">8e1d991503f8fe2ff77b60ef06588cdc2ba10fe56df0548367eb3ba97ba0b175</hash>
+			<size>919968</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.assistant.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.base">
+		<id>online.useoros.base</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Base</name>
+		<summary>Your own small database: tables, links, formulas, cards, kanban and calendar</summary>
+		<desc>orOS Base keeps records with structure, like a small database: a catalogue of your books, a collection, the guests of an event, the tasks of a project. Start from a template or a blank base, or import a CSV, Excel or OpenDocument file, an Airtable export or an orOS base file (.orosbase).
+
+Each table has fields of a fixed type: text, numbers, currency, dates, checkboxes, choices, ratings, e-mail, links, phone numbers and attachments, plus fields Base fills in by itself: autonumbers, links between tables, lookups, rollups, counts and formulas with the functions of orOS Spreadsheet.
+
+See the same records as a grid, cards, a gallery, a kanban board, a calendar or a form; filter, sort and group them, and keep each way of looking as a view. Comments on records, a form that sends answers from orOS Forms straight into a table, and export to CSV or Spreadsheet are built in.
+
+Open an .orosbase file from your file manager with orOS Base. Icon shortcuts: New base and Last base.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox or Nextcloud; when two devices change different fields of the same record, both changes are kept.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/base/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.base_9015000_fb6f6fb2.apk</apkname>
+			<hash type="sha256">fb6f6fb241e511a77939f6ec1d728543820bc8ed96d9e412e2f9ea801d5f4d45</hash>
+			<size>919764</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.base.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.invoices">
+		<id>online.useoros.invoices</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Billing</name>
+		<summary>Quotes, invoices, receipts and credit notes with VAT, PDF and payments</summary>
+		<desc>orOS Billing makes quotes, invoices, receipts, proformas and credit notes with VAT and automatic numbering, as PDF with your logo and details. It tracks who has paid and who still owes, and keeps your clients.
+
+The Quotes tab writes quotes with your lines, VAT and currency, sends them as PDF and turns an accepted quote into a new invoice with the client and the lines filled in.
+
+Record full or partial payments by bank transfer, cash, card, IRIS or PayPal, and see the status of every document. Add a discount, withholding tax and a VAT exemption reason, turn a proforma into an invoice, and correct an invoice with a credit note. PDFs in euro carry a SEPA payment QR code.
+
+The dashboard shows what you invoiced and collected, what is outstanding and overdue, a bar per month, your top clients and the VAT per rate. Client statements, polite payment reminders, templates and recurring invoices save time, and you can keep more than one business profile.
+
+Due dates show in orOS Calendar and Today, and Billing works together with Timesheet, CRM, Stock and Budget. Greek ΑΦΜ, ΔΟΥ and myDATA records are supported; nothing is sent to ΑΑΔΕ unless you connect a provider and press Send.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Money</categories>
+		<category>Money</category>
+		<web>https://useoros.online/invoices/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.invoices_9015000_0310c433.apk</apkname>
+			<hash type="sha256">0310c4336bcce0f686f5adb47654e808b7ce1d655138dba96304811104230127</hash>
+			<size>914300</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.invoices.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.bookmarks">
+		<id>online.useoros.bookmarks</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Bookmarks</name>
+		<summary>Save links in folders, tag them, keep readable copies and find them fast</summary>
+		<desc>orOS Bookmarks keeps your web links tidy. Paste a link to save it, give it a title, a description and tags, and star your favourites to see them as tiles at the top.
+
+Folders can sit inside folders as deep as you like. Search looks through titles, addresses, descriptions, tags and folder names, tags filter the list with one tap, and you can sort by recent, title or most visited.
+
+Save a readable copy of an article to read later, even offline. Tidy up checks your links for broken or moved pages when you ask, and finds duplicates to merge.
+
+Import bookmarks from your browser or from Pocket, Instapaper, wallabag, Raindrop.io, Linkwarden, linkding or Pinboard, and export them as a standard HTML file. Site icons are never downloaded, so opening the list contacts no websites.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://useoros.online/bookmarks/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.bookmarks_9015000_7c7bd541.apk</apkname>
+			<hash type="sha256">7c7bd54181481ca73d29aada71eb28f87e3559cb9afa0c2832c698cd42734191</hash>
+			<size>914420</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.bookmarks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.budget">
+		<id>online.useoros.budget</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Budget</name>
+		<summary>Income and expenses, offline and private</summary>
+		<desc>Record income and expenses by category, set monthly budgets and see where the money goes, with CSV import and export. Nothing leaves your device unless you turn on encrypted sync with your own Dropbox.
+
+Share text to orOS Budget to start a new expense.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Money</categories>
+		<category>Money</category>
+		<web>https://useoros.online/budget/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.budget_9015000_aa85b450.apk</apkname>
+			<hash type="sha256">aa85b450f4b132af9f61808455057b74ff2a16f4d36a8466de9ef81b093e1b20</hash>
+			<size>915036</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.budget.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.calculator">
+		<id>online.useoros.calculator</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Calculator</name>
+		<summary>Calculator with scientific, graphing, programmer and finance modes</summary>
+		<desc>orOS Calculator is an everyday calculator with five modes. Standard has memory keys, percentages and Ans; Scientific has brackets, powers and roots, trigonometry in degrees, radians or gradians, logarithms, factorials, constants and many functions.
+
+Graphing draws up to four functions at once. Drag and pinch to explore, trace a curve, and see the roots, lowest and highest points and where two curves cross.
+
+Programmer works in hex, decimal, octal and binary at 8 to 64 bits, with AND, OR, XOR, NOT and shifts, and lets you flip single bits. Finance adds VAT, percentage change, loan instalments with a month-by-month table and savings growth.
+
+Type units and currencies right in the line, such as 3 ft to cm or 20 EUR to USD. A history keeps your results and exports to CSV, and a playful Troll mode is there for fun.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Science &amp; Education</categories>
+		<category>Science &amp; Education</category>
+		<web>https://useoros.online/calculator/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.calculator_9015000_91c555ef.apk</apkname>
+			<hash type="sha256">91c555ef3d63c90a978de202df3536a2a0dd6c1eb8bb489db32169d7a3976aee</hash>
+			<size>920016</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.calendar">
+		<id>online.useoros.calendar</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Calendar</name>
+		<summary>A private calendar that works offline</summary>
+		<desc>Plan events with day, week, month and agenda views, repeating events, reminders, name days and holidays. Opens .ics files.
+
+Optional encrypted sync with your own Dropbox. Share text to orOS Calendar to turn it into a new event.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Time</categories>
+		<category>Time</category>
+		<web>https://useoros.online/calendar/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.calendar_9015000_4a72a9fd.apk</apkname>
+			<hash type="sha256">4a72a9fd82278f7ba2c2f539158d126f20262f7d6a7a67bc295928d59f5bc234</hash>
+			<size>912284</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.calendar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.contacts">
+		<id>online.useoros.contacts</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Contacts</name>
+		<summary>Address book with labels, birthdays, keep-in-touch reminders and duplicate merge</summary>
+		<desc>orOS Contacts is your address book: names, phones, emails, addresses, websites, birthdays and other dates, and the links between people. Birthdays show up in the orOS Calendar on their own.
+
+Keep in touch: log calls, meetings, messages and gifts on a timeline, and set how often you want to talk to someone. When it is time, they appear under Reach out, with an optional daily reminder.
+
+Find people fast: search ignores Greek accents and understands Greek names written in Latin letters. Labels and favourites filter the list, and each contact shows its initials or a playful 8-bit avatar. Duplicates finds people saved twice and merges them, with Undo.
+
+Import vCard (.vcf) and CSV files with a clear review of what is new, what differs and what is already there, scan a business card on your device, and export everything as vCard. In the Android app, your contacts can also appear in the phone's own Contacts and dialer.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Phone &amp; SMS</categories>
+		<category>Phone &amp; SMS</category>
+		<web>https://useoros.online/contacts/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.contacts_9015000_9aebbc1e.apk</apkname>
+			<hash type="sha256">9aebbc1e1b3ceded163fb8bd6ce066ef23a612584c3f0b3fe7fc9258cf955dae</hash>
+			<size>918988</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.contacts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.crm">
+		<id>online.useoros.crm</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS CRM</name>
+		<summary>A small customer book: customers, contacts, follow-ups and a deal pipeline</summary>
+		<desc>orOS CRM is a small customer book for freelancers and small businesses: your customers, the people you talk to there, what was said, what you promised to do next and the deals you are working on.
+
+Log calls, emails, meetings, messages and notes, and plan follow-ups with a day and a time. The Agenda shows what is late, what is due today and what is coming, with reminders. Tags, filters and a Not contacted list make sure nobody is forgotten.
+
+Track deals through a pipeline with stages, values, chances and expected close dates, and adapt the stages to your work. The dashboard shows your open pipeline, what you won this month and this year, your win rate and what customers still owe.
+
+Start an invoice or a quote for a customer in one tap, see follow-ups in orOS Calendar and Today, and import customers from CSV, HubSpot, Pipedrive, Invoice Ninja or Odoo. An optional contact form for your website turns messages into new leads, encrypted until CRM picks them up.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/crm/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.crm_9015000_f0a22645.apk</apkname>
+			<hash type="sha256">f0a22645e09f269e764cc17346a4b69934301589b964a172233dd915158629e4</hash>
+			<size>916608</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.crm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.cycle">
+		<id>online.useoros.cycle</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Cycle</name>
+		<summary>Private period tracker with predictions, symptoms and an optional fertile window</summary>
+		<desc>orOS Cycle is a quick, private log of your periods, symptoms and pain relief. Log a day in seconds: start or end a period, set the flow of each day, tap the symptoms that apply and note what you took for the pain, with the time.
+
+A timeline shows your periods, and the app estimates when the next one is due from your own averages. Insights show your average cycle and period length, your most frequent symptoms and a report for your doctor. Optional reminders tell you when your period is expected or seems late.
+
+If you want, log your basal body temperature and cervical mucus: the app finds the temperature rise and the mucus peak and shows an estimate of your fertile window, with a chart of the cycle. It is an estimate for body awareness, not contraception and not medical advice.
+
+Bring your history from drip., Clue, Flo or a CSV file. Make your own symptom and medication chips, and rename or delete the ready ones.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/cycle/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.cycle_9015000_8358db20.apk</apkname>
+			<hash type="sha256">8358db20812c45b589ffbeac72309714a7558d23178039a6e84646b1e1eed4ca</hash>
+			<size>919156</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.cycle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.diary">
+		<id>online.useoros.diary</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Diary</name>
+		<summary>One sentence a day, with the same date from past years shown under it</summary>
+		<desc>orOS Diary is a one-sentence diary: one line a day, written in ten seconds. Under today's line you see what you wrote on the same date in earlier years, so in a year's time today comes back to you.
+
+Pick an emoji for the day, and when one line is not enough, write more about the day with simple formatting, a question of the day, ready templates or your own questions. Add up to four photos, a place and the day's weather.
+
+My days shows a month calendar with the emoji of each day and finds any line by search; Year shows a whole year on one page to print. A streak keeps you going, an optional evening reminder comes on days with no line yet, and a PIN lock keeps the diary private on this device.
+
+Make a PDF book of a year, export your lines as text, CSV or JSON, and import from Day One, Journey, Diaro and Daylio.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Writing</categories>
+		<category>Writing</category>
+		<web>https://useoros.online/diary/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.diary_9015000_44f5bd29.apk</apkname>
+			<hash type="sha256">44f5bd29ee9ee140cdde253ca3b3307690355fc39a252907655155bca16c4dc7</hash>
+			<size>911868</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.diary.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.drive">
+		<id>online.useoros.drive</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Drive</name>
+		<summary>Back up phone folders to your encrypted orOS Vault, with Dropbox or Nextcloud</summary>
+		<desc>orOS Drive keeps folders of your phone in your encrypted orOS Vault, the same Vault the orOS apps and the orOS Drive desktop app use.
+
+Sign in with your own Dropbox, your own Nextcloud, or any WebDAV server that keeps exact ETags. Everything is encrypted on the phone with your sync passphrase before it leaves it; the cloud only sees encrypted pieces.
+
+Pick folders to back up: they are synced in the background, by default only on Wi-Fi. A file you delete on the phone goes to the app's Trash first, and nothing is ever deleted because the cloud looked empty.
+
+The whole orOS disk appears in Android's Files app and in every file picker as &quot;orOS&quot;: files download only when you open them, and changes you save go back to the Vault. The app also has its own simple file browser.
+
+No account with us, no ads, no trackers. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://useoros.online/download/</web>
+		<source>https://github.com/koulaxizis/oros-drive</source>
+		<tracker>https://github.com/koulaxizis/oros-drive/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>6001</marketvercode>
+		<package>
+			<version>0.6.1</version>
+			<versioncode>6001</versioncode>
+			<apkname>online.useoros.drive_6001_833b8c0f.apk</apkname>
+			<hash type="sha256">833b8c0ff8a4288ce77d16f9daf9563dfd3f18a900f524ebcb349be6811e4c36</hash>
+			<size>35985713</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,READ_MEDIA_VISUAL_USER_SELECTED,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,online.useoros.drive.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="online.useoros.files">
+		<id>online.useoros.files</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Files</name>
+		<summary>Your private disk: folders, previews, search, ZIP files and Dropbox</summary>
+		<desc>orOS Files is the orOS disk: folders and files kept on your device. Import files, make folders and text files, rename, move, copy and delete them, and get deleted items back from the Trash for 30 days. Favourites and Recent files keep what you use close at hand.
+
+Preview pictures, PDFs and Markdown, and edit text files with a live Markdown preview. The grid view shows thumbnails of your photos and of the first page of PDFs. Search names, or also the contents of text files and PDFs, in a folder and all its subfolders.
+
+Pack files and folders into a ZIP file and unpack ZIP files, and send documents and spreadsheets to the orOS Converter in one tap.
+
+If you like, connect your Dropbox to browse it, copy or move files into the encrypted orOS disk, and send ordinary copies back to Dropbox to share them.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web>https://useoros.online/files/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.files_9015000_1332b146.apk</apkname>
+			<hash type="sha256">1332b14617cc8144bfb00b32ad63ac86a79d2984e0aa76bec00e2efe7c58c51f</hash>
+			<size>914884</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.files.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.forms">
+		<id>online.useoros.forms</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Forms</name>
+		<summary>Surveys, sign-up sheets and order forms; answers come to you encrypted</summary>
+		<desc>orOS Forms makes surveys, sign-up sheets, order forms and quizzes. Pick a template or start blank, add questions of many kinds (short answer, choices, scales, stars, dates, grids), split them into pages, and show a question only for some answers.
+
+Share a form with a link, a QR code or on your website. People fill it in in any browser, without an account. The questions are encrypted with a key that is only in the link, and every answer is encrypted in the person's browser; the orOS relay keeps them in between and can read neither.
+
+Answers come to your phone, with a notification if you like. See a chart for each question, averages and the texts people wrote, filter them, open them in Spreadsheet or download a CSV, and add a person who answered to Contacts or CRM.
+
+No ads, no cookies, no tracking. Your forms and answers sync to your other devices only if you turn sync on, end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/forms/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.forms_9015000_cf39f236.apk</apkname>
+			<hash type="sha256">cf39f23601d0bdbb2adcb750b57c0aac98d1e552db05e9da3a51e3b17990ab07</hash>
+			<size>919872</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.forms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.games">
+		<id>online.useoros.games</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Games</name>
+		<summary>37 classic games in one app: daily puzzles, chess, solitaire</summary>
+		<desc>Wordle, crossword, Sudoku, nonogram, Flow and Minesweeper each have a daily challenge. There are also chess (with optional Lichess / Chess.com play), checkers, backgammon, solitaire, mahjong, 2048, Tetris-style blocks and more, with achievements and statistics.
+
+It works offline, with no ads and no in-app purchases.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web>https://useoros.online/gamecenter/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.games_9015000_58da30c0.apk</apkname>
+			<hash type="sha256">58da30c0cc85f1e842aac609590321be8da8b043434f9d43dfc07c650148be44</hash>
+			<size>915396</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.games.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.habits">
+		<id>online.useoros.habits</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Habits</name>
+		<summary>Build routines: tick habits day by day, with streaks, strength and stats</summary>
+		<desc>orOS Habits helps you build routines. Tick a habit off with one tap, or count how much you did with an amount habit, such as at least 20 pages or at most 2 coffees, with − and + buttons and a daily target.
+
+Habits can be daily, on chosen weekdays, on any day, or a number of times per week or per month. Skip a day when you are sick or away without breaking the streak, add a short note to a day, and set a reminder time.
+
+Each habit shows its current streak and a strength score that grows as you keep it and falls slowly when you miss. Its details show the strength over time, a year of days and your notes. See your week as a list, a whole month as a calendar, and stats with check-offs, perfect days and completion rates.
+
+Bring your habits and their history over from Loop Habit Tracker, Habitica, Streaks, Habitify or any CSV file.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/habits/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.habits_9015000_b250ca26.apk</apkname>
+			<hash type="sha256">b250ca2626d0abbd07138e8c10c3c041fc3db2340425c7dfdc16b46745b021c0</hash>
+			<size>914820</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.habits.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.health">
+		<id>online.useoros.health</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Health</name>
+		<summary>Log blood pressure, weight, sugar, sleep and medicines, with charts and reports</summary>
+		<desc>orOS Health keeps your home measurements in one place: blood pressure, weight (with BMI), blood sugar, sleep, resting heart rate, temperature, oxygen and any kind you add yourself. Each reading gets a clear badge such as In range or High, following common medical tables, or the targets your doctor gave you.
+
+Keep a list of your medicines with their doses and times. The app reminds you of each dose, counts what is left so you know when to refill, shows how regularly you took them, and lets you log symptoms.
+
+Charts show 7 days to a year, with the target range shaded and morning and evening blood pressure apart. A tidy report for your doctor prints or saves as PDF, or as a spreadsheet (CSV).
+
+The Record keeps your Medical ID for emergencies (full screen, with a QR code and a printable wallet card), your appointments, vaccines and documents such as lab results. You can import readings from Withings, OMRON connect, Samsung Health and Apple Health exports.
+
+Health records; it does not diagnose and it is not medical advice.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/health/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.health_9015000_e2e254d5.apk</apkname>
+			<hash type="sha256">e2e254d59fc28834a01833fa6ec35a3eaf8a9667ea6fbd8eed36505e819b5b24</hash>
+			<size>919936</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.health.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.kanban">
+		<id>online.useoros.kanban</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Kanban</name>
+		<summary>Kanban boards: drag cards across columns, with labels, due dates and subtasks</summary>
+		<desc>orOS Kanban helps you follow work from start to finish: cards move across columns such as To Do, Doing and Done, and you can keep one board per project.
+
+Drag cards and columns with a mouse or a finger. Each card has notes, a due date, labels, subtasks with progress, your own extra fields, attachments and a cover. Columns can have work-in-progress limits and rules that run when a card arrives.
+
+See the same board as columns, as a sortable table or on a timeline of days, and split it into swimlanes by label or lane. Search and filter by label, use templates, and archive finished boards. Cards with a due date also show up in the orOS Calendar.
+
+Import boards from Trello, Asana, Jira, ClickUp, WeKan, Planka and Kanri, and export a board as a file or the cards as CSV.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/kanban/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.kanban_9015000_fccf47fb.apk</apkname>
+			<hash type="sha256">fccf47fb015a8831e669600e4e97b23cd68f5fc9f365b1216487ae892c532dd0</hash>
+			<size>911484</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.kanban.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.library">
+		<id>online.useoros.library</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Library</name>
+		<summary>Read EPUB, PDF and FB2 books and CBZ/CBR comics, offline and private</summary>
+		<desc>orOS Library is an e-book reader for EPUB, PDF and FB2 books and CBZ and CBR comics. Open a book from your file manager with orOS Library, or add books from your phone and from free catalogues such as Project Gutenberg and Standard Ebooks, or any OPDS catalogue you add.
+
+Read your way: text size, font, line spacing, margins, pages or scrolling and the themes orOS, Paper, Sepia and Night; zoom and night pages for PDFs. Contents, search in the book, highlights in four colours, bookmarks and notes, exported as Markdown when you want them. Look up a word in Wiktionary or listen with the voices of your phone.
+
+Your place, highlights and notes follow you to your other devices, and reading time and a daily streak keep you going. Icon shortcuts: Continue reading (the book you are reading now) and Free books.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox or Nextcloud.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Reading</categories>
+		<category>Reading</category>
+		<web>https://useoros.online/library/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.library_9015000_a435800b.apk</apkname>
+			<hash type="sha256">a435800bcf0223daadd43a486c50e749ab9004758d05ea880ac82ee181bb705f</hash>
+			<size>912652</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.library.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.mail">
+		<id>online.useoros.mail</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Mail</name>
+		<summary>Read and send email from any IMAP account, with rules, snooze and OpenPGP</summary>
+		<desc>orOS Mail reads and sends your email from any provider that offers IMAP. Add up to 10 accounts, browse your folders with their unread counts, see all inboxes together, and read messages offline once they have been opened. Replies are grouped into conversations.
+
+Search the open folder on the device or on the server, snooze messages until later, star, archive, move and block senders, and let rules sort new mail for you. On servers with Sieve, your rules and an out-of-office reply can run on the server itself.
+
+Write with formatting, templates, signatures and attachments, undo a send within a few seconds, schedule a message for later and keep drafts on the server. Messages written offline wait in the Outbox. OpenPGP signs and encrypts mail, and your keys stay on your device.
+
+Pictures from the internet stay hidden until you allow them, and sender and link checks warn about possible fakes. Unsubscribe from mailing lists, add invitations to orOS Calendar, or turn a message into a task, a note or a contact in other orOS apps.
+
+Keeps your data on your device, with no orOS account, no ads, no cookies and no tracking. Browsers can't talk to mail servers directly, so your mail passes through the open-source orOS mail relay, which keeps nothing. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://useoros.online/mail/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.mail_9015000_b1751a68.apk</apkname>
+			<hash type="sha256">b1751a68e0d71e7dff32e41525177f78574384994863359a790c1c2add78e212</hash>
+			<size>915036</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.mail.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.maps">
+		<id>online.useoros.maps</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Maps</name>
+		<summary>OpenStreetMap maps with routes, public transport, navigation and GPX tracks</summary>
+		<desc>orOS Maps finds places and plans routes by car, bike, on foot or by public transport, with route choices, up to three stops and an arrival time. Start navigation for spoken turn-by-turn directions, lane hints and the speed limit of the road.
+
+Save places in coloured groups, discover restaurants, cafés, pharmacies and sights around you with their opening hours, read Wikipedia articles about nearby places and see open street-level photos.
+
+Record, import and follow GPX tracks, plan a track with its elevation profile, and see a heatmap of where you have been. Download an area as an offline map, so the map and search work with no connection.
+
+Help improve OpenStreetMap with notes, place edits and quick questions in the style of StreetComplete.
+
+Your data stays on your device, with no account, no ads, no cookies and no tracking. Maps, search and routes come from free, open services built on OpenStreetMap (such as OSRM, FOSSGIS, Photon and Transitous for public transport); they receive only the places and routes you ask for. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Navigation</categories>
+		<category>Navigation</category>
+		<web>https://useoros.online/maps/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.maps_9015000_5b3a4b40.apk</apkname>
+			<hash type="sha256">5b3a4b40ccebf112e7be5c6b943f7b4ba3ac4da403d97d8dd12ae9e4b13cce17</hash>
+			<size>925720</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.maps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.mindmap">
+		<id>online.useoros.mindmap</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Mind Map</name>
+		<summary>Mind maps that stay tidy: branches, colours, icons, outline view and presenting</summary>
+		<desc>orOS Mind Map helps you sort out ideas: one idea in the centre, branches around it. The layout always stays tidy, so you only think about the ideas, and you can keep as many maps as you like.
+
+Add children and siblings with a tap, drag a node to move its whole branch, fold branches, and give ideas an emoji, a colour, a note, a link or a small picture. Style shapes and borders, group ideas with boundaries and summaries, and link ideas on different branches.
+
+Arrange a map as a classic map, a map to the right, an org chart, a tree or a timeline. Type quickly in the outline view, search the map, and present it full screen, one branch at a time.
+
+Turn a branch into a To-Do list, a note or a slide deck in other orOS apps. Import from FreeMind, Freeplane, XMind, SimpleMind, MindManager, OPML, Markdown and text, and export to PNG, SVG, Markdown, OPML or JSON.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/mindmap/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.mindmap_9015000_728b71a0.apk</apkname>
+			<hash type="sha256">728b71a0f6648baf5c9399b58cdb45535ddc0c52799714477b1067aa46587145</hash>
+			<size>923580</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.mindmap.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.mood">
+		<id>online.useoros.mood</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Mood</name>
+		<summary>Log how you feel in seconds and discover patterns in your mood over time</summary>
+		<desc>orOS Mood lets you log how you feel in a few seconds. Pick one or more feelings and how strong each one is, where you are and who you are with, and mark a few daily basics and rituals, such as sleep, coffee, a walk or reading. Add your own activities, a trigger and a short note if you like.
+
+Entries lists everything you logged, newest first, with search. Insights shows a weekly recap, your goals, plain-language patterns, how you felt, your streak, this week against the last, your habits and activities, a month calendar, a year in pixels and breakdowns by place, person and weekday, with filters and a PDF report.
+
+Rename, reorder or hide feelings and activities, add your own with an emoji and a colour, and set goals such as moving three times a week. Import your history from Daylio, Bearable, eMoods or any CSV file.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/mood/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.mood_9015000_e192bb2a.apk</apkname>
+			<hash type="sha256">e192bb2a135b0d75fac9c3962b18a41925f8439338efb6ed3bd60e00c82ed1be</hash>
+			<size>922668</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.mood.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.music">
+		<id>online.useoros.music</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Music</name>
+		<summary>Your music and free music from open catalogues, offline and with no account</summary>
+		<desc>orOS Music plays the songs on your phone and free music from open catalogues: Internet Archive (Live Music Archive, netlabels, classical), Openverse, ccMixter and Jamendo. Browse by album, artist and playlist, like songs and build playlists, and download free songs to listen with no connection.
+
+Music keeps playing in the background and with the screen off, with play, pause, next and previous on the lock screen and in the notification. Shuffle, repeat, a queue, crossfade, gapless playback, ReplayGain, an equaliser, a sleep timer and synced lyrics (.lrc files or the free LRCLIB, if you turn it on) are built in.
+
+Artist pages from open data (MusicBrainz, Wikidata, Wikipedia), mixes made from what you play, a yearly recap and charts from ListenBrainz help you find more music. Connect your own Subsonic, Navidrome, Jellyfin or Funkwhale server, WebDAV, Nextcloud or Dropbox, import M3U, PLS and XSPF playlists or your Spotify export, and send your plays to your own ListenBrainz account if you want.
+
+Open a song from your file manager with orOS Music, or share a link to a song, a playlist or a music feed to it. Icon shortcuts: Liked songs and Shuffle my music.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync of likes and playlists is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://useoros.online/music/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.music_9015000_96c4b7ec.apk</apkname>
+			<hash type="sha256">96c4b7ec07346b7ba9fedc18191a7a8fc57c0dbfe60e1814f8006b9a3bc1518e</hash>
+			<size>917204</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.notes">
+		<id>online.useoros.notes</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Notes</name>
+		<summary>Private notes that work offline</summary>
+		<desc>Write pages and checklists and keep them in notebooks, with search, pinning and Markdown. Everything stays on your device.
+
+Turn on encrypted sync with your own Dropbox to see the same notes on every device. Share any text to orOS Notes to save it as a new page.
+
+Part of orOS, the free, open-source system that runs in your browser.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Writing</categories>
+		<category>Writing</category>
+		<web>https://useoros.online/notes/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.notes_9015000_38e65677.apk</apkname>
+			<hash type="sha256">38e65677d94701673ed21cec01a1712f0109ae146fcd8d6ff7b74471037a9536</hash>
+			<size>912220</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.notes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.passwords">
+		<id>online.useoros.passwords</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Passwords</name>
+		<summary>An encrypted password vault that stays on your device</summary>
+		<desc>Keep logins, cards and notes in a vault encrypted on your device with your master password. It includes a password generator and imports from other managers.
+
+Sync, if you turn it on, carries only the encrypted vault. No account, no server, no tracking.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Security</categories>
+		<category>Security</category>
+		<web>https://useoros.online/passwords/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.passwords_9015000_d11697f3.apk</apkname>
+			<hash type="sha256">d11697f3f3dcf164a4b8074f4247173d97b7cdfb7e7054af14e70c634b80d0e8</hash>
+			<size>1183732</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,USE_BIOMETRIC,online.useoros.passwords.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.photolab">
+		<id>online.useoros.photolab</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Photo Lab</name>
+		<summary>Edit photos with layers, masks, selections, brushes, filters and adjustments</summary>
+		<desc>orOS Photo Lab is a layered photo editor that works offline. Open photos, camera RAW files, and PSD, OpenRaster and Krita files with their layers, or start a new picture. Your projects are saved as you go.
+
+Select with the marquee, lasso, magic wand or quick selection, or let Select subject find the main subject on your device. Paint, clone, heal, dodge, burn and smudge, add text and shapes, crop, rotate and resize, and remove a background with a layer mask.
+
+Work without touching the original pixels, with layer masks, adjustment layers (levels, curves, hue and saturation, colour balance and more) and layer styles such as drop shadow and glow. Apply looks, blurs, sharpening, noise reduction, a vignette and more, or open a Lightroom preset (.xmp).
+
+Batch process many photos at once with resizing, watermarks and new file names, and export to PNG, JPG, WebP, PSD, OpenRaster or the open .orosphoto format.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Graphics</categories>
+		<category>Graphics</category>
+		<web>https://useoros.online/photolab/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.photolab_9015000_ca793bbc.apk</apkname>
+			<hash type="sha256">ca793bbcf2bbee1a817feb94a6b235986957cfa0a0c50a9b75b20a5f199b4bfe</hash>
+			<size>917600</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.photolab.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.podcasts">
+		<id>online.useoros.podcasts</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Podcasts</name>
+		<summary>Follow podcasts, build an Up next queue and download episodes to play offline</summary>
+		<desc>orOS Podcasts lets you follow your favourite shows, see new episodes, build an Up next queue and download episodes to listen offline. Playback keeps going after you close the app, and your device's media controls work too.
+
+The full player has playback speed, a sleep timer, chapters, show notes and searchable transcripts. Skip silence plays the quiet stretches faster and Voice boost makes voices clearer. Each show can have its own speed, skip its intro and outro, and download new episodes automatically.
+
+Find shows by search, or add any feed or website address. Import and export OPML, see how long you listened, and if you like, sync subscriptions and progress with your own gpodder.net account or Nextcloud.
+
+Keeps your data on your device, with no account, no ads, no cookies and no tracking. Podcast search uses the public Apple Podcasts and fyyd catalogues, only when you search, and can be turned off. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://useoros.online/podcasts/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.podcasts_9015000_ab370dd8.apk</apkname>
+			<hash type="sha256">ab370dd838c9daf909fae5a73f40efd9ade97888bba20c958d5a753c439b6dd3</hash>
+			<size>925380</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.podcasts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.radio">
+		<id>online.useoros.radio</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Radio</name>
+		<summary>Thousands of internet radio stations, with favourites, recording and alarms</summary>
+		<desc>orOS Radio plays thousands of internet radio stations from around the world. Browse by country or genre, search by name, or let Surprise me pick a top station. Music keeps playing after you close the app, and your device's media controls work too.
+
+Keep your favourite stations, find your recent ones, and import station lists from other players (M3U, PLS, XSPF, CSV or a RadioDroid export). A sleep timer fades the sound out gently.
+
+When a station says what it plays, see the song title and a song history. Record a station to your orOS disk for your own personal listening, or wake up to a station with an alarm in orOS Time.
+
+Keeps your data on your device, with no account, no ads, no cookies and no tracking. Stations come from the free community directory radio-browser.info and play only over encrypted (https) connections. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://useoros.online/radio/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.radio_9015000_b87d0f76.apk</apkname>
+			<hash type="sha256">b87d0f763c3af9947974addbb02a4b3be24c0b2eea687d89687c34d9a40f30cc</hash>
+			<size>922628</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.radio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.reader">
+		<id>online.useoros.reader</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Reader</name>
+		<summary>RSS, Atom and JSON feed reader with folders, tags, search and offline reading</summary>
+		<desc>orOS Reader follows news sites, blogs and channels through their RSS, Atom or JSON feeds. Type a site's address and Reader finds its feeds by itself, also for YouTube channels, Reddit, Mastodon and GitHub. Articles arrive in one place and stay readable offline.
+
+Organise feeds in folders, star articles, keep them for Read later and add your own tags. Switch between list, cards and magazine styles, load the full article when a feed only carries a summary, and swipe to mark read or star.
+
+Search titles and text, watch words that matter to you, and let rules mute, star or tag new articles as they arrive. Newsletters from a Mail folder can show up as a feed too.
+
+Import your subscriptions from another reader with OPML, or straight from FreshRSS or Miniflux.
+
+Your data stays on your device, with no account, no ads, no cookies and no tracking. Feeds are fetched straight from the sites you follow, or through the orOS relay when a site blocks browsers. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Reading</categories>
+		<category>Reading</category>
+		<web>https://useoros.online/feeds/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.reader_9015000_12ceb82b.apk</apkname>
+			<hash type="sha256">12ceb82b2801ed1d36cce0fcf51152f56d48a58112ef7cbbc5c68a8ceaac9441</hash>
+			<size>919080</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.reader.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.scanner">
+		<id>online.useoros.scanner</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Scanner &amp; PDF</name>
+		<summary>Scan pages with the camera, edit, sign and shrink PDFs, ask others to sign</summary>
+		<desc>orOS Scanner &amp; PDF turns your phone into a scanner. Point the camera at a page: the app finds it, takes the picture when you hold still, straightens it and cleans it up as a document, grey, black and white or photo. Scan page after page, then save them as one PDF.
+
+Put PDFs together, take them apart and set their pages in order, sign them, write and draw on them, add page numbers and a watermark, make a PDF smaller, and read the text of scanned pages so the PDF can be searched. Pictures become a PDF too.
+
+Ask someone else to sign: they open a link, sign in their browser without an account, and the signed PDF comes back to you, encrypted on the way. Up to five people can sign the same document.
+
+Everything else happens on your phone: nothing is uploaded, and your own files are never changed. No ads, no cookies, no tracking; sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/scanpdf/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.scanner_9015000_9f9d4347.apk</apkname>
+			<hash type="sha256">9f9d43478b4f6ed25f7974f1706d4d72bdc28f23077dd6a701e7295cee3119cb</hash>
+			<size>915104</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.scanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.slides">
+		<id>online.useoros.slides</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Slides</name>
+		<summary>Make presentations with themes and layouts, and present with speaker notes</summary>
+		<desc>orOS Slides makes presentations. Start from a theme or a ready template (project update, report, lesson, pitch, photo album, event), in 16:9 or 4:3, and add slides with ready layouts. Text, pictures, rectangles, ellipses, lines, tables and charts take the theme's colours.
+
+Work in three views: one slide with its speaker notes, a sorter to reorder, hide or delete slides, and an outline where the whole presentation is plain text. Add transitions, entrance animations that build one click at a time, and groups.
+
+Present full screen with a laser pointer and a blank screen, or use the speaker view with the next slide, your notes and a timer. Your phone can be the remote: pair it with a code and get big Next and Previous buttons, the time and your notes.
+
+Open and save PowerPoint files (.pptx), open LibreOffice Impress files and Markdown decks (Marp, reveal.js), and export a PDF, a PDF with speaker notes or a PNG of one slide.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/slides/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.slides_9015000_0d027d2e.apk</apkname>
+			<hash type="sha256">0d027d2e1f401c875bb2efb54a3ddca97d58a5167ba7ac165558fac54011c4a4</hash>
+			<size>914172</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.slides.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.spreadsheet">
+		<id>online.useoros.spreadsheet</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Spreadsheet</name>
+		<summary>Spreadsheet with 100+ functions, charts, several sheets and Excel/Calc files</summary>
+		<desc>orOS Spreadsheet is a grid for lists, budgets and sums. A workbook holds several sheets, each up to 10,000 rows and 104 columns.
+
+Formulas work as in other spreadsheets, with more than 200 functions: sums and conditions, lookups such as VLOOKUP and XLOOKUP, text, dates, statistics and money functions. A list of functions with a line on each is one tap away.
+
+Format cells with bold, colours, fills, borders, number formats, wrapping and merged cells, use conditional formatting with colour scales and data bars, and make column, bar, line, pie, donut or scatter charts that follow your numbers. Sort, filter, freeze rows and columns, and drag the fill handle to continue a series, also with a finger.
+
+Copy and paste to and from other spreadsheet apps, and open and save Excel (.xlsx), LibreOffice Calc (.ods) and CSV files.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/spreadsheet/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.spreadsheet_9015000_e7ea6806.apk</apkname>
+			<hash type="sha256">e7ea68068810ee015e2d225c0b96b754da0054618bb6e8583f65c445cc795479</hash>
+			<size>912424</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.spreadsheet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.stock">
+		<id>online.useoros.stock</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Stock</name>
+		<summary>Inventory, a till for shops and fairs, barcodes, reorders and sales reports</summary>
+		<desc>orOS Stock keeps the inventory of a business: your products, what comes in, what goes out and what is left. The quantity is always the sum of its movements, so it stays right when two of your devices sell at the same time.
+
+The till turns your phone into a point of sale for a shop or a book fair: search or scan a product with the camera, take cash or card, print the receipt or hand it over as a PDF or QR code. Every sale is an ordinary stock movement, and two tills selling at once never lose a sale.
+
+See what to reorder and make purchase orders, send stock to consignment shops and settle what sold, count your stock, and read sales reports per product and per place. A USB or Bluetooth barcode scanner works too, and a WooCommerce shop can be kept in step.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Money</categories>
+		<category>Money</category>
+		<web>https://useoros.online/stock/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.stock_9015000_f63752e8.apk</apkname>
+			<hash type="sha256">f63752e87686d417b1ceb7eba123e58765977ae2ac649cca419d2c6dce001e08</hash>
+			<size>913464</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.stock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.time">
+		<id>online.useoros.time</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Time</name>
+		<summary>Clock, world clock, alarms, timers, stopwatch, Pomodoro and a stage timer</summary>
+		<desc>orOS Time puts a big clock on your screen in five styles: digital, analog, binary, flip and neon. The world clock shows any of more than 500 cities, and the meeting planner lines up the hours of several places to find a time that suits everyone.
+
+Set alarms for once or every day, run several named kitchen timers at once, each with its own sound, and time laps with the stopwatch, which marks the fastest and slowest lap. A Pomodoro timer alternates focus and breaks.
+
+Sun &amp; Moon shows sunrise, sunset, day length and the moon phase for your place.
+
+For conferences, the stage timer runs a whole rundown of talks and breaks, with yellow and red warnings, messages to the speaker, a full-screen stage view, a display on a second screen and remote control from a phone.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Time</categories>
+		<category>Time</category>
+		<web>https://useoros.online/time/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.time_9015000_926b3860.apk</apkname>
+			<hash type="sha256">926b38607e09eb96b3915ee7616ee93f7bd59adb84c1bc69ed951bc0f8d899db</hash>
+			<size>924700</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.time.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.timesheet">
+		<id>online.useoros.timesheet</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Timesheet</name>
+		<summary>Track work time per project and client, with timers, weekly view and reports</summary>
+		<desc>orOS Timesheet tracks the time you spend on work, per project and client. Start a timer or add time by hand, see each day's entries and total, and continue earlier work with one tap. The timer keeps running with the app closed and shows on your other devices too.
+
+The Week view shows your hours per project and day. Reports group your time by project, client, task, tag or day for any period, with billable amounts, rounding, CSV export and filters for invoiced and not yet invoiced time.
+
+Projects have an hourly rate, a colour and an optional hours budget with a progress bar. Turn a report into a quote or an invoice in orOS Quote and Invoices, log Pomodoro sessions from orOS Time, and import your history from Toggl Track, Clockify, Harvest, Kimai or Jira Tempo.
+
+A daily goal, a reminder for a timer you forgot to stop and questions about time away keep your hours right.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Time</categories>
+		<category>Time</category>
+		<web>https://useoros.online/timesheet/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.timesheet_9015000_f19bcfd1.apk</apkname>
+			<hash type="sha256">f19bcfd1418feae29519be973dd21f5f95505982a0c7edbe12809452e7968ada</hash>
+			<size>919716</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.timesheet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.todo">
+		<id>online.useoros.todo</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS To-Do</name>
+		<summary>Tasks and lists, offline and private</summary>
+		<desc>Lists, due dates, repeating tasks, subtasks and reminders, plus an icon badge that counts what is due today. Optional encrypted sync with your own Dropbox.
+
+Share text to orOS To-Do to add it as a task.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Office</categories>
+		<category>Office</category>
+		<web>https://useoros.online/todo/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.todo_9015000_c20c64c8.apk</apkname>
+			<hash type="sha256">c20c64c858ced3acfc37f52f55934fca03e0e16c05560a4b950d117b3c335f0f</hash>
+			<size>909980</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.transfer">
+		<id>online.useoros.transfer</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Transfer</name>
+		<summary>Send big files and folders straight to another phone or browser, encrypted</summary>
+		<desc>orOS Transfer sends big files and whole folders from your phone or the orOS disk straight to another device. The other person opens a link, scans a QR code or types a code; they do not need orOS or an account.
+
+The files go directly between the two devices, end-to-end encrypted, and are never stored on a server. The key is made from the code and stays in the link after the # sign, so the orOS relay that introduces the two browsers sees only sealed messages. Every file is checked when it arrives.
+
+Add a title, a message and your own background picture, which is made smaller and cleaned of camera details on your phone first. When the two devices cannot be online at the same time, Send through my Dropbox keeps the encrypted files in your own Dropbox for 4 to 96 hours and deletes them afterwards.
+
+orOS sets no size limit: the receiving device's free space decides. No ads, no cookies, no tracking.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://useoros.online/transfer/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.transfer_9015000_1f9a2bb8.apk</apkname>
+			<hash type="sha256">1f9a2bb8de49ea9cb2842e1cd02f85bd23da0573fb77bba7c003853a26a10ff7</hash>
+			<size>914076</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.transfer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.water">
+		<id>online.useoros.water</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Water</name>
+		<summary>Log every glass with one tap and watch your daily water goal fill up</summary>
+		<desc>orOS Water helps you drink enough during the day. Log a glass or a bottle with one tap, or any other amount, and watch the glass fill up towards your daily goal, with the percentage and how much is left.
+
+Today's drinks are listed with their time; tap one to change its amount or time, or to delete it. Move to another day to add what you forgot. The overview shows your day streak, best streak, the average of the last 7 days and the share of days on goal, with a bar for every day of the week and a month heatmap.
+
+Set your daily goal (with a suggestion from your weight), the sizes of the glass and the bottle, and show amounts in ml, glasses or fl oz. Optional reminders come only when you are behind, within the hours you choose. Export every drink as CSV.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/water/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.water_9015000_7adac3d9.apk</apkname>
+			<hash type="sha256">7adac3d993f930cdb2abb9a54894b152596cbeb5c3093d0c020fe8ccc54a2a45</hash>
+			<size>916956</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.water.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.weather">
+		<id>online.useoros.weather</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Weather</name>
+		<summary>Forecast, rain in the next 2 hours, official warnings, air quality and pollen</summary>
+		<desc>orOS Weather shows the current conditions for the cities you pick: temperature with a short hint such as Umbrella day, feels like, humidity, wind, UV index, sunrise and sunset, and air quality. Swipe to change city, and tap the temperature to switch between °C and °F.
+
+See rain in the next 2 hours in 15-minute steps, the next 48 hours, and a 7-day forecast with lows, highs and the chance of rain. Official MeteoAlarm warnings appear for your area, with optional notifications.
+
+A rain map shows satellite rain estimates of the last hours, and Air &amp; pollen gives three days of European air quality, pollutants and pollen. You can pick the forecast model and compare up to three models side by side.
+
+Sky tonight shows the Moon as it looks, when it rises and sets, when it gets dark and which planets and stars you can see above your city, worked out on your phone, so it works offline too.
+
+Your data stays on your device, with no account, no ads, no cookies and no tracking. Forecasts come from the free, open Open-Meteo service (air quality from Copernicus), warnings from MeteoAlarm and the rain map from NASA GIBS over OpenStreetMap; they receive only the places you look up. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web>https://useoros.online/weather/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.weather_9015000_4d842a2f.apk</apkname>
+			<hash type="sha256">4d842a2f71d98d84868b16b5bae6632447947c06ce230af731057f24a36abd21</hash>
+			<size>928920</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.weather.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.wiki">
+		<id>online.useoros.wiki</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Wiki</name>
+		<summary>Your own wiki: linked articles with contents, categories and full history</summary>
+		<desc>orOS Wiki is your own encyclopedia. Write what you know in articles that link to each other, and read them like an online encyclopedia, with a contents box, foldable sections, categories, an infobox, tables, pictures, galleries and numbered references.
+
+Link articles with double square brackets: a link to an article that doesn't exist yet shows in red, and tapping it opens the editor. Wanted articles, What links here, Recent changes, Random article and an A to Z list help you find your way. The editor has a toolbar, a preview and section editing.
+
+Every saved version of every article is kept. History shows each version with its summary, the changes between versions with the changed words marked, and lets you restore any of them. Rename an article and leave a redirect so old links keep working.
+
+Keep several wikis for work, home or a hobby. Import from Notes, Markdown files, Notion, TiddlyWiki, MediaWiki and Confluence exports, and save your wiki as an orOS file, a Markdown zip or an offline website. Print an article or save it as a PDF.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Writing</categories>
+		<category>Writing</category>
+		<web>https://useoros.online/wiki/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.wiki_9015000_723b2339.apk</apkname>
+			<hash type="sha256">723b233908c40aa6f4537d325f95df808c5a2a021840228c5e6fe92b651095e7</hash>
+			<size>924008</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.wiki.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.workouts">
+		<id>online.useoros.workouts</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Workouts</name>
+		<summary>Training log: follow a program, tick your sets, track records and progress</summary>
+		<desc>orOS Workouts is a training log. Follow one of your programs or train freely: add exercises from the library, tick your sets as you go, and see what you lifted last time. A rest timer starts after each set, a suggestion tells you when to go heavier, and new records pop up as they happen.
+
+Programs have days, exercises, sets, reps, weights, rest times and weekdays; copy a ready one (Full Body, Upper / Lower, Push / Pull / Legs) or make your own, with supersets and circuits. Progression programs (5/3/1, GZCLP, Linear 5×5) work out every session's sets and weights for you.
+
+History lists every finished workout. Progress shows charts of estimated 1RM, volume or pace, your records, workouts per week, sets per muscle group and a year of training days. Body logs your weight and measurements. Record outdoor walks, runs and rides with distance, pace and splits, and export them as GPX.
+
+Import your history from Strong, Hevy, FitNotes, JEFIT and FIT, TCX or GPX files, and export all sets as CSV or a JSON backup.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web>https://useoros.online/fitness/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.workouts_9015000_4c74b2b7.apk</apkname>
+			<hash type="sha256">4c74b2b782eea4e058d60a85d91da6b2b232dd74b339353bb1e1fa1f21ff8ea0</hash>
+			<size>910596</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.workouts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.writer">
+		<id>online.useoros.writer</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>orOS Writer</name>
+		<summary>Word processor with tabs, tables, footnotes, comments and Word/PDF export</summary>
+		<desc>orOS Writer is a word processor that saves as you type. Each document opens in its own tab, and the Documents list keeps them all at hand, with search.
+
+Format with headings, quotes, code, lists, alignment, links, images and tables, and add footnotes, comments, a table of contents, page settings with header and footer, and special characters.
+
+Write with focus: focus mode, typewriter scrolling, word count and reading time, writing goals, automatic versions and snapshots, and templates for essays, letters, screenplays, poems and meeting notes. Spelling works offline for English and Greek, with your own dictionary.
+
+Track changes with accept and reject, mail merge from your contacts or a CSV file, and find and replace. Open DOCX, ODT, RTF, HTML, Markdown and text files, and export to Word, PDF, Markdown, HTML, RTF or plain text.
+
+Works offline, with no account, no ads, no cookies and no tracking. Sync is optional and end-to-end encrypted, using your own Dropbox.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Writing</categories>
+		<category>Writing</category>
+		<web>https://useoros.online/writer/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.writer_9015000_b177551a.apk</apkname>
+			<hash type="sha256">b177551acf4c0b50e3796d619ce4b70a38222eaa03df4a35e5e5af2dd53c5230</hash>
+			<size>912944</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.writer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="online.useoros.studioremote">
+		<id>online.useoros.studioremote</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>Remote for orOS Studio</name>
+		<summary>Control orOS Studio on your PC from a phone or tablet: mixer and NULL JSFX</summary>
+		<desc>Remote for orOS Studio turns a phone or tablet into a control surface for orOS Studio on your PC.
+
+On the PC, open Studio › Settings › Connect a tablet or phone. In the app, scan the QR code or type the 6-digit code, then press Allow on the PC. You get the transport (play, stop, record, loop, click, tempo, position), every track's fader, pan, mute, solo and record arm, the master, and live meters.
+
+Open a track's effects to see and play the NULL JSFX effects with the same interfaces as on the PC: change any control, switch an effect on or off, add, remove and reorder effects.
+
+On the same Wi-Fi the link is direct; elsewhere it goes through the orOS relay, end-to-end encrypted with the code. The PC must allow each new device. The screen stays on while you control Studio, and the app comes back to the same PC without a new Allow.
+
+No account, no ads, no cookies and no tracking. Nothing of your project is kept on the phone.
+
+The app's content updates by itself from useoros.online; a new APK only comes when the Android shell changes. Free and open source (MIT), free forever.
+</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web>https://useoros.online/studio/remote/</web>
+		<source>https://github.com/koulaxizis/oros</source>
+		<tracker>https://github.com/koulaxizis/oros/issues</tracker>
+		<author>orOS</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>9015000</marketvercode>
+		<package>
+			<version>9.15.00</version>
+			<versioncode>9015000</versioncode>
+			<apkname>online.useoros.studioremote_9015000_2e3f833e.apk</apkname>
+			<hash type="sha256">2e3f833e199a61c69d47b7ea892b3a632187333abd5d35943063245b39e1ddde</hash>
+			<size>917920</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>FOREGROUND_SERVICE,POST_NOTIFICATIONS,online.useoros.studioremote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="site.waymarked.app">
+		<id>site.waymarked.app</id>
+		<added>2026-11-28</added>
+		<lastupdated>2026-11-28</lastupdated>
+		<name>Waymark</name>
+		<summary>Phone as presentation remote and file transfer on the local network</summary>
+		<desc>Waymark Remote turns your phone into the remote for a presentation laptop. Scan the QR code the Waymark app shows on the laptop, compare the check number, and you are connected.
+
+Change slides, start and end the show, black the screen, jump to a slide and see which slide is showing. Send files to the laptop's shared folder and take files back, with a check that each file arrived whole.
+
+Roles for the people around an event: operator, secretariat and supervisor.
+
+Everything goes straight between the phone and the laptop on the local network, encrypted end to end. No account, no cloud, no ads, no tracking. Free and open source (MIT).
+
+The laptop side is the portable Waymark Remote app for Windows, macOS and Linux, from waymarked.site.
+</desc>
+		<license>MIT</license>
+		<categories>Connectivity</categories>
+		<category>Connectivity</category>
+		<web>https://waymarked.site/</web>
+		<source>https://github.com/koulaxizis/waymark</source>
+		<tracker>https://github.com/koulaxizis/waymark/issues</tracker>
+		<author>Waymark</author>
+		<donate>https://useoros.online/support/</donate>
+		<marketversion></marketversion>
+		<marketvercode>10004</marketvercode>
+		<package>
+			<version>0.1.0</version>
+			<versioncode>10004</versioncode>
+			<apkname>site.waymarked.app_10004_9ba1a768.apk</apkname>
+			<hash type="sha256">9ba1a768e5a0b9b9ac149b6d5db9f64cd5a590683ab013257d65985bb2fcde20</hash>
+			<size>116320</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-28</added>
+			<sig>6709b62d93112b4a1ae762d902a2acf5</sig>
+			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_ADVERTISE,BLUETOOTH_CONNECT,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH"/>
+			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH_ADMIN"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+</fdroid>
